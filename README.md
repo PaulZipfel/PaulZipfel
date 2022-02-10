@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PaulZipfel
 - 👀 I’m interested in C#
 - 🌱 I’m currently learning C#, Java, (JavaScript, PHP and HTML)
-- 💞️ I’m looking to collaborate on 
 - 📫 Reach me on Dicord "Lil ππ#6250"
 
 <!---
