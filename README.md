@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PaulZipfel
 - 👀 I’m interested in C#
-- 🌱 I’m currently learning C#, Java, (JavaScript, PHP and HTML)
-- 📫 Reach me on Dicord "Lil ππ#6250"
+- 🌱 I’m currently learning C#, Java
 
 <!---
 PaulZipfel/PaulZipfel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
