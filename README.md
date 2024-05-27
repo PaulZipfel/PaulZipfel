@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @PaulZipfel
-- 👀 I’m interested in C#
-- 🌱 I’m currently learning C#, Java
+blank
 
 <!---
 PaulZipfel/PaulZipfel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
